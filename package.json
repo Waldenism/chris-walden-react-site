@@ -1,0 +1,12 @@
+{
+  "name": "chris-walden-react-site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Waldenism/chris-walden-react-site.git",
+  "author": "cw",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
