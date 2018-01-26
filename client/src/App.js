@@ -5,20 +5,13 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 
 import About from './pages/About'
-import Contact from './pages/Contact'
-import Portfolio from './pages/Portfolio'
-import Sundry from './pages/Sundry'
+import Contact from './pages/Contact/Contact'
+import Portfolio from './pages/Portfolio/Portfolio'
+import Sundry from './pages/Sundry/Sundry'
 
 import './App.css'
 
 class App extends Component {
-  constructor(props) {
-    super(props)
-    this.state = {
-      //stateful things
-    }
-    //this. fn = this. fn .bind(this)
-  }
 
   render() {
 
@@ -29,13 +22,12 @@ class App extends Component {
             <div className='tontent-inside'>
 
               <Header />
-
           
               <Route exact path='/' component={About} />
-              <Route exact path='/about' component={About} />
-              <Route exact path="/contact" component={Contact} />
-              <Route exact path="/portfolio" component={Portfolio} />
-              <Route exact path="/sundry" component={Sundry} />
+              <Route path='/about' component={About} />
+              <Route path='/contact' component={Contact} />
+              <Route path='/portfolio' component={Portfolio} />
+              <Route path='/sundry' component={Sundry} />
             </div>
           </div>
 

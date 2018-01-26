@@ -16,10 +16,16 @@
   border-bottom: ridge 1px #5f45bb;
 }
 
+.bar2 {
+  
+  width:100%;
+}
+
 .line0 {
   /*line-height: 1.0;*/
   font-size: 1em;
   margin-top: 0 !important;
+  margin-bottom: 1px;
 }
 
 

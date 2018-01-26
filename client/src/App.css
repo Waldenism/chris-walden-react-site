@@ -64,6 +64,10 @@
   border:solid 2px #5f45bb;
 }
 
+ul {
+  min-width: 250px;
+}
+
 .centroid {
   border: solid 1px #5f45bb;
   border-radius: 8px;
@@ -80,7 +84,7 @@
 }
 
 .contact {
-  padding: 0px 128px 0px 128px;
+  /*padding: 0px 128px 0px 128px;*/
 }
 
 

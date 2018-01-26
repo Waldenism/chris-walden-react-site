@@ -1,0 +1,57 @@
+[
+  {
+    "title": "LinkedIn",
+    "small": "Christopher Walden",
+    "icon": "./images/linkedIn.png",
+    "note": "Click icon and connect with me on LinkedIn",
+    "url": "https://www.linkedin.com/in/waldenism/",
+    "ghurl": "https://www.linkedin.com/in/waldenism/"
+  },
+  {
+    "title": "Github",
+    "small": "waldenism",
+    "icon": "./images/github.png",
+    "note": "Most of my projects go through github for ease of version control and sharing.",
+    "url": "https://github.com/Waldenism",
+    "ghurl": "https://github.com/Waldenism"
+  },
+  {
+    "title": "Stack Overflow",
+    "small": "C. Walden",
+    "icon": "./images/stackoverflow.png",
+    "note": "My favorite place to help and get help from other developers.",
+    "url": "https://stackoverflow.com/users/8128375/c-walden?tab=profile",
+    "ghurl": "https://stackoverflow.com/users/8128375/c-walden?tab=profile"
+  },
+  {
+    "title": "Twitter",
+    "small": "@SeaWx2",
+    "icon": "./images/twitter.png",
+    "note": "I used to have another twitter account, but I believe due to such duration of inactivity it was deleted. I believe news feeds to be harmfull.",
+    "url": "https://twitter.com/SeaWx2",
+    "ghurl": "https://twitter.com/SeaWx2"
+  },
+  {
+    "title": "Instagram",
+    "small": "@chrisplaysharp",
+    "note": "Harp Instagram - @chrisplaysharp",
+    "icon": "./images/insta.png",
+    "note2": "Personal - @waldenism",
+    "url": "https://publicsta.com/p/chrisplaysharp/3972360108",
+    "ghurl": "https://publicsta.com/p/chrisplaysharp/3972360108"
+  },
+  {
+    "title": "Email",
+    "note": "cwaldenism@gmail.com",
+    "icon": "./images/email.png",
+    "note2": "cwalden@berkeley.edu (deprecated)"
+  },
+  {
+    "title": "USPS",
+    "small": "",
+    "icon": "./images/mail.png",
+    "note": "55 Fairmount Ave. 213",
+    "note2": "Oakland, CA 94611",
+    "note3": " - Mail is the most secure way to privately communicate"
+  }
+]
