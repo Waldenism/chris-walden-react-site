@@ -7,7 +7,7 @@ const Sundry = () =>
 
     <div className='not-top-bar gainsboro'>
       <div className='container'>
-        <nav className='breadcrumb' aria-lable='breadcrumbs'>
+        <nav className='breadcrumb' aria-label='breadcrumbs'>
           <ul className='line0'> 
     
               <li><a href="">harp</a></li>

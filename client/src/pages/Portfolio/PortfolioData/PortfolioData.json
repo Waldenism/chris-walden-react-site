@@ -1,68 +1,68 @@
 [
   {
     "title": "MoodSurfer",
-    "small": "Live",
+    "small": "Live*",
     "small2": "Github",
     "icon": "./images/surf.png",
-    "note": "React",
-    "note2": "Golang",
+    "note": "React - Golang",
+    "note2": "*Not yet live, follow progress on Github",
     "note3": "",
     "url": "",
-    "ghurl": ""
+    "ghurl": "https://github.com/mattcarpowich1/mood-tracker"
   },
   {
     "title": "LunchTime",
     "small": "Live",
     "small2": "Github",
     "icon": "./images/lunch.png",
-    "note": "food",
-    "note2": "fast",
+    "note": "Collect a groups lunch order all in one place - good for mobile",
+    "note2": "Built with MongoDB, Express, Node, and React",
     "note3": "",
-    "url": "",
-    "ghurl": ""
+    "url": "https://lunchytime.herokuapp.com/",
+    "ghurl": "https://github.com/Waldenism/Lunchy"
   },
   {
     "title": "This site",
     "small": "/",
     "small2": "Github",
     "icon": "./images/this.png",
-    "note": "React",
-    "note2": "Bulma",
+    "note": "Built with React and Bulma",
+    "note2": "",
     "note3": "",
     "url": "",
-    "ghurl": ""
+    "ghurl": "https://github.com/Waldenism/chris-walden-react-site"
   },
   {
     "title": "TriviaGame",
     "small": "Live",
     "small2": "Github",
     "icon": "./images/quiz.png",
-    "note": "jQuery",
-    "note2": "slow",
+    "note": "Built with jQuery",
+    "note2": "",
     "note3": "",
-    "url": "",
-    "ghurl": ""
+    "url": "https://github.com/Waldenism/TrainScheduler",
+    "ghurl": "https://waldenism.github.io/TrainScheduler/"
   },
   {
     "title": "RunLog",
-    "small": "Live",
+    "small": "Live*",
     "small2": "github",
     "icon": "./images/runner.png",
-    "note": "track",
-    "note2": "xc",
-    "note3": "",
+    "note": "track runs",
+    "note2": "Built With SQL, Handlebars, Express, Node, and jQuery",
+    "note3": "*Not yet live, follow progress on Github",
     "url": "",
-    "ghurl": ""
+    "ghurl": "https://github.com/mmenschig/RunLog"
   },
   {
     "title": "FriendFinder",
     "small": "Live",
     "small2": "Github",
     "icon": "./images/ff.png",
-    "note": "joe",
-    "note2": "miyamoto",
+    "note": "find friends with simillar intrests",
+    "note2": "Built with SQL, Express, Node, and jQuery",
     "note3": "",
-    "url": "",
-    "ghurl": ""
+    "url": "https://walden-friend-finder.herokuapp.com/",
+    "ghurl": "https://github.com/Waldenism/FriendFinder"
   }
 ]
