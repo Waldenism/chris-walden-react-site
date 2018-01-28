@@ -1,36 +1,65 @@
-import React from 'react'
+import React, { Component } from 'react'
 import './Article.css'
 
-const Article = props =>   
-  
-    <article className="media">
-      <figure className="media-left">
-        <a href={props.url}>
-          <p className="image is-64x64">
-            <img src={props.icon} alt={props.title} className='ittle-pic'/>
-          </p>
-        </a>
-      </figure>
+class Article extends Component {
 
-      <div className="media-content">
-        <div className="content">
-          <p>
-            <strong>{props.title}</strong> - <a href={props.url}>
-              {props.small}
-            </a> - <a herf={props.ghurl}>
-               {props.small2}
-            </a> 
+  state = {
+    hover: false
+  }
 
-            <br />
+  hoverIn = () => {
+    this.setState({
+      hover: true
+    })
+  }
 
-            <small>
-              { props.note }<br />
-              { props.note2 }<br />
-              { props.note3 }
-            </small>
-          </p>
-        </div>
+  hoverOut = () => {
+    this.setState({
+      hover: false
+    })
+  }
+
+  render() {
+
+    return (
+      <div hover={ this.state.hover}
+        className={ this.state.hover ? 'box animation-target' : 'box' }
+        onMouseEnter={ this.hoverIn }
+        onMouseLeave={ this.hoverOut }
+      > <div className='mybox'>
+        <article className="media">
+          <figure className="media-left">
+            <a href={this.props.url}>
+              <p className="image is-64x64">
+                <img src={this.props.icon} alt={this.props.title} className='ittle-pic'/>
+              </p>
+            </a>
+          </figure>
+
+          <div className="media-content">
+            <div className="content">
+              <p>
+                <strong>{this.props.title}</strong> - <a href={this.props.url}>
+                  {this.props.small}
+                </a> - <a herf={this.props.ghurl}>
+                   {this.props.small2}
+                </a> 
+
+                <br />
+
+                <small>
+                  { this.props.note }<br />
+                  { this.props.note2 }<br />
+                  { this.props.note3 }
+                </small>
+              </p>
+            </div>
+          </div>
+        </article></div>
       </div>
-    </article>
+    )
+
+  } 
+}
 
 export default Article

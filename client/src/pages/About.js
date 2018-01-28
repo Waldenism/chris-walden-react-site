@@ -34,8 +34,8 @@ const About = () =>
       <div className="tile is-vertical">
         <div className='tile is-parent animation-target'>
           <article className="tile is-child notification walden centroid">
-            <div className="content">
-              <p className='title'>Walden, Chris</p>
+            <div className="">
+              <p className='titleMain'><strong>Walden, Chris</strong></p>
               <p className="subtitle"> - Full-Stack software engineer and life learner.</p>
               <div className="content">
                 Likes javascript, mac, and git. More about me is distributed through out this site, welcome.

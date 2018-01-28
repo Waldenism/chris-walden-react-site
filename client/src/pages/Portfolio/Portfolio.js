@@ -14,11 +14,11 @@ class Portfolio extends Component {
 
       <div className='section'>
         <div className='container'>
-          <div className='contact animation-target'>
+          <div className='contact'>
 
             <ul>
               {this.state.data.map((info, index) => (
-                <li className='box' key={index}>
+                <li className='' key={index}>
                   <Article title={info.title}
                     small={info.small}
                     small2={info.small2}
@@ -27,7 +27,7 @@ class Portfolio extends Component {
                     note2={info.note2}
                     note3={info.note3}
                     url={info.url}
-                    ghurl={info.ghurl}/>  
+                    ghurl={info.ghurl}/>  <br />
                 </li>
               ))}
             </ul>
