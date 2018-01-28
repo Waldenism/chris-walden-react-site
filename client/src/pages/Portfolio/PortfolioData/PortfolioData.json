@@ -1,16 +1,5 @@
 [
   {
-    "title": "MoodSurfer",
-    "small": "Live*",
-    "small2": "Github",
-    "icon": "./images/surf.png",
-    "note": "React - Golang",
-    "note2": "*Not yet live, follow progress on Github",
-    "note3": "",
-    "url": "",
-    "ghurl": "https://github.com/mattcarpowich1/mood-tracker"
-  },
-  {
     "title": "LunchTime",
     "small": "Live",
     "small2": "Github",

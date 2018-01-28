@@ -1,34 +1,27 @@
 .emblem {
   font-family: 'Yellowtail', cursive;
   font-size: 3em;
-  color: #5f45bb;
+  /*color: #5f45bb;*/
   /*opacity: auto;*/
 }
 
 .top-bar {
-  /*background-color: #C8C8C8;*/
+  /*background-color: #83858C;*/
   background-color: hsl(0, 0%, 96%);
-  border-bottom: solid 3px #5f45bb;
+  /*border-bottom: solid 3px #5f45bb;*/
+  border-bottom: solid 3px  #83858C;
   /*opacity: 0.3;*/
 }
 
 .not-top-bar {
-  border-bottom: ridge 1px #5f45bb;
+  /*border-bottom: ridge 1px #5f45bb;*/
+  border-bottom: ridge 3px  #83858C;
 }
 
 .bar2 {
   
   width:100%;
 }
-
-.line0 {
-  /*line-height: 1.0;*/
-  font-size: 1em;
-  margin-top: 0 !important;
-  margin-bottom: 1px;
-}
-
-
 
 .animation-target2 {
   -webkit-animation: animation 2800ms linear infinite both;

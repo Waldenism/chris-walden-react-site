@@ -28,9 +28,16 @@ class Header extends Component {
 
         <div className='top-bar'>
           <div className='container'>
-            <div className='navbar-brand animation-target2'>
-              <Link to='/' className='navbar-item emblem'>
-                Walden, Chris
+            <div className='navbar-brand'>
+              <Link to='/'
+                hover={ this.state.hover }
+                className={ this.state.hover ? 
+                  ' emblem noDecor animation-target2' : 
+                  ' emblem noDecor'}                
+                onMouseEnter={ this.hoverIn }
+                onMouseLeave={ this.hoverOut }
+              >
+                  Walden, Chris
               </Link>
             </div>
           </div>
