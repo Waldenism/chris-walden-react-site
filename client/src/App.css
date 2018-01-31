@@ -1,12 +1,21 @@
+
+/*document*/
+ul {
+  min-width: 250px;
+}
+
+.my-hero {
+  border-radius: 4px;
+}
+/*/document*/
+
+/*App*/
 .tody {
   height: 100%;
   margin: 0;
-  /*background-color: beige;*/
 }
 
 .tontent {
-  /*background-color: beige;*/
-  /*background-color: hsl(0, 0%, 21%);*/
   background-color: #363636;
   min-height: 100%;
 }
@@ -14,72 +23,56 @@
 .tontent-inside {
   padding-bottom: 35px;
 }
+/*/App*/
+
+/*Header-Footer*/
+.line0 {
+  font-size: 1em;
+  margin-top: 0 !important;
+  margin-bottom: 1px;
+}
+
+.gainsboro {
+  background-color: gainsboro;
+}
 
 .tooter {
   height: 35px;
   margin-top: -35px;
 }
 
+/*/Header-Footer*/
+
+/*About*/
+
+.intellectual {
+  color: #cfb1b7;
+}
+
+.artistic {
+  color: #8b80f9;
+}
+
+.social {
+  color: #64d4ff;
+}
+
+.physical {
+  color: #cfbff7;
+}
+
 .profile-pic {
   border-radius: 50%;
   border:solid 2px #83858C;
-  /*border: solid 2px #9B7EDE;*/
-  /*border: solid 2px #5f45bb;*/
 }
 
 .pic-box {
   padding: 35px;
 }
 
-.ittle-pic {
-  height: 64px;
-  width: 64px;
-  border-radius: 8px;
-}
-
-.gainsboro {
-  background-color: gainsboro;
-  /*border: solid 1px #5f45bb;*/
-}
-
-.intellectual {
-  /*color: hsl(217, 71%, 53%);*/
-  color: #cfb1b7;
-}
-
-.physical {
-  color: #cfbff7;
-  /*color: hsl(204, 86%, 53%);*/
-}
-
-.artistic {
-  color: #8b80f9;
-  /*border-radius: 5px;*/
-  /*color:black;*/
-  /*color: hsl(48, 100%, 67%);*/
-  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
-}
-
-.social {
-  color: #64d4ff;
-  /*color: hsl(141, 71%, 48%);*/
-}
-
-.box {
-  /*border:solid 2px #5f45bb;*/
-  border:solid 2px  #83858C;
-}
-
-ul {
-  min-width: 250px;
-}
-
 .centroid {
-  /*border: solid 1px #5f45bb;*/
   border:solid 2px #83858C;
   border-radius: 8px;
-  /*color:#5f45bb;*/
-  /*color: black;*/
 }
 
 .walden {
@@ -89,51 +82,55 @@ ul {
 .titleMain {
   font-size: 2.75em;
   color: #333333;
-  /*margin-bottom: none;*/
 }
 
-.email {
-  border: solid 1px purple;
-  border-radius: 5px;
+/*/About*/
+
+/*Contact*/
+
+.box {
+  border:solid 2px  #83858C;
 }
 
-.contact {
-  /*padding: 0px 128px 0px 128px;*/
+.ittle-pic {
+  height: 64px;
+  width: 64px;
+  border-radius: 8px;
 }
 
-.line0 {
-  font-size: 1em;
-  margin-top: 0 !important;
-  margin-bottom: 1px;
-}
+/*/Contact*/
 
-.noDecor, .noDecor:visited {
-  text-decoration: none;
-  color:#4a4a4a;
-}
+/*SUNDRY*/
 
-.line1 li {
-  padding-left: 20px;
-  /*padding-right: 35px;*/
-}
+  .subtit {
+    /*word-wrap: break-word;*/
+    /*overflow: hidden;*/
+    width: 95%;
+  }
 
-.mybox {
-  /*padding: 15px;*/
-}
+  /*SundryBar*/
 
-.harpVid1 {
-  display: flex;
-  justify-content: center;
-  flex-direction: center;
-  margin: 0 auto;
-}
+  .line1 li {
+    padding-left: 20px;
+  }
 
-.my-hero {
-  border-radius: 5px;
-}
+  .breadcrumb a, .breadcrumb a:visited {
+    text-decoration: none !important;
+    color:gainsboro !important;
+  }
 
+  /*/SundryBar*/
 
+  /*Harp*/
+  .harpVid1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    margin: 0 auto;
+  }
+  /*/Harp*/
 
+/*//SUNDRY*/
 
 .animation-target {
   -webkit-animation: animation 1000ms linear both;
@@ -201,7 +198,15 @@ ul {
 }
 
 
-
-
+@media screen and (max-width: 768px) {
+  .flex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .flip {
+    order:-1;
+  }
+}
 
 

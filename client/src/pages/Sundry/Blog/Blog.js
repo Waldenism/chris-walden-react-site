@@ -17,7 +17,19 @@ class Blog extends Component {
 
         <div className='section'>
           <div className='container'>
-            <div className='contact'>
+
+            <section className="hero is-light my-hero">
+                <div className="hero-body">
+                  <div className="container">
+                    <h1 className="title">
+                      Blog
+                    </h1>
+                    <h2 className="subtitle">
+                      Stay tuned to get inside the mind of Chris
+                    </h2>
+                  </div>
+                </div>
+              </section>
 
               <ul>
                 {/*this.state.data.map((info, index) => (
@@ -27,7 +39,6 @@ class Blog extends Component {
                 ))*/}
               </ul>
 
-            </div>
           </div>
         </div>
 

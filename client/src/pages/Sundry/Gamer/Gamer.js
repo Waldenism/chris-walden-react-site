@@ -17,7 +17,7 @@ class Gamer extends Component {
 
         <div className='section'>
           <div className='container'>
-            <div className='contact'>
+            
 
 
               <section className="hero is-light my-hero">
@@ -26,8 +26,8 @@ class Gamer extends Component {
                     <h1 className="title">
                       Gaming
                     </h1>
-                    <h2 className="subtitle">
-                      My first memories are of watching my older brother playing SNES and later empowring me by putting the controller into my hands.
+                    <h2 className="subtitle subtit">
+                      My first memories are of watching my older brother playing SNES and later empowering me by putting the controller into my hands.
                     </h2>
                   </div>
                 </div>
@@ -41,7 +41,7 @@ class Gamer extends Component {
                 ))*/}
               </ul>
 
-            </div>
+            
           </div>
         </div>
 
