@@ -7,4 +7,4 @@ technologies used:
   very minimal express server
 
 
-![harp pic](./client/public/images/harp 1403.jpg)
+<img src='./client/public/images/harp 1403.jpg' />
