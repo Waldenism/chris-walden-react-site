@@ -46,21 +46,22 @@ const Harp = () =>
           </div>
 
           <div className='section'>
-            <div className='container'>
               <div className='harpVid1'>
                 <video className='' controls>
                   <source src='./images/musette.mov' />
                 </video>
               </div>
-            </div>
           </div>
+
+          <div className='section'>
+            <img src='./images/harp 1403.jpg' alt='harp' />
+          </div>              
 
           <div className='box is-light'>
             <h2 className="subtitle">
-                  more content on instagram @chrisplaysharp
-                </h2> 
+              more content on instagram @chrisplaysharp
+            </h2> 
           </div>
-
 
         </div>
       </div>

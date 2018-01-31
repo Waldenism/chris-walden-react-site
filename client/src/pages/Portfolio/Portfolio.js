@@ -18,7 +18,7 @@ class Portfolio extends Component {
 
             <ul>
               {this.state.data.map((info, index) => (
-                <li className='' key={index}>
+                <li key={index}>
                   <Article title={info.title}
                     small={info.small}
                     small2={info.small2}

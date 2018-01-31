@@ -30,10 +30,9 @@ class Header extends Component {
           <div className='container'>
             <div className='navbar-brand'>
               <Link to='/'
-                hover={ this.state.hover }
                 className={ this.state.hover ? 
-                  ' emblem noDecor animation-target2' : 
-                  ' emblem noDecor'}                
+                  'emblem animation-target2' : 
+                  'emblem'}                
                 onMouseEnter={ this.hoverIn }
                 onMouseLeave={ this.hoverOut }
               >

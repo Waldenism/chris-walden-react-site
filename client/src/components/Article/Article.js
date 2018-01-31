@@ -22,11 +22,10 @@ class Article extends Component {
   render() {
 
     return (
-      <div hover={ this.state.hover}
-        className={ this.state.hover ? 'box animation-target' : 'box' }
+      <div className={ this.state.hover ? 'box animation-target' : 'box' }
         onMouseEnter={ this.hoverIn }
         onMouseLeave={ this.hoverOut }
-      > <div className='mybox'>
+      > 
         <article className="media">
           <figure className="media-left">
             <a href={this.props.url}>
@@ -55,7 +54,7 @@ class Article extends Component {
               </p>
             </div>
           </div>
-        </article></div>
+        </article>
       </div>
     )
 
