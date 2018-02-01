@@ -1,5 +1,5 @@
 # chris-walden-react-site
-portfolio site <br />x
+personal site <br />
 technologies used: <br />
   react <br />
   bulma <br />
