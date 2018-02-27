@@ -11,14 +11,25 @@
     "ghurl": "https://github.com/Waldenism/Lunchy"
   },
   {
+    "title": "BucketList",
+    "small": "Live",
+    "small2": "Github",
+    "icon": "./images/bucket.png",
+    "note": "Built with MySQL, Node, Express, jQuery, and Bulma",
+    "note2": "check out the sequelized sequel",
+    "note3": "",
+    "url": "https://floating-tundra-83868.herokuapp.com/burgers",
+    "ghurl": "https://github.com/Waldenism/burger"
+  },
+  {
     "title": "This site",
-    "small": "/",
+    "small": "Home",
     "small2": "Github",
     "icon": "./images/this.png",
     "note": "Built with React and Bulma",
     "note2": "",
     "note3": "",
-    "url": "",
+    "url": "http://chris-walden-react-site.herokuapp.com/",
     "ghurl": "https://github.com/Waldenism/chris-walden-react-site"
   },
   {
