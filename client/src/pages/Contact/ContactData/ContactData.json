@@ -2,10 +2,11 @@
   {
     "title": "LinkedIn",
     "small": "Christopher Walden",
+    "small2": "Resume",
     "icon": "./images/linkedIn.png",
     "note": "Click icon and connect with me on LinkedIn",
     "url": "https://www.linkedin.com/in/waldenism/",
-    "ghurl": "https://www.linkedin.com/in/waldenism/"
+    "ghurl": "resume.pdf"
   },
   {
     "title": "Github",

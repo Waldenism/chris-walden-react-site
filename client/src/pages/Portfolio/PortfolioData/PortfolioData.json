@@ -16,7 +16,7 @@
     "small2": "Github",
     "icon": "./images/bucket.png",
     "note": "Built with MySQL, Node, Express, jQuery, and Bulma",
-    "note2": "check out the sequelized sequel",
+    "note2": "check out the sequelized sequel on github",
     "note3": "",
     "url": "https://floating-tundra-83868.herokuapp.com/burgers",
     "ghurl": "https://github.com/Waldenism/burger"
