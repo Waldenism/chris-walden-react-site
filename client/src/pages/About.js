@@ -13,9 +13,9 @@ const About = () =>
               <p className="title"> <span className='intellectual'> Intellectual </span> </p>
               <p className="subtitle"></p>
               <p className="content">
-                An aspiring polymath, actively strives to develop capacity across multiple unrealated academic fields and in all areas of human accomplishment: <span className='intellectual'>intellectual</span>, <span className='artistic'>artistic</span>, <span className='social'>social</span>, and <span className='physical'>physical</span>. 
+                An aspiring polymath, actively strives to develop capacity across multiple unrealated academic fields and in all areas of human accomplishment: <span className='intellectual'>intellectual</span>, <span className='artistic'>artistic</span>, <span className='social'>socio-spirtual</span>, and <span className='physical'>physical</span>. 
 
-                Knowleges in: law, logic, math, business, government, justice, physics, philosophy, electronic engineering, computer science, algorithmic puzzles, music, geography, sociology, biology, science, psycology, art, and more.
+                Knowleges in: law, logic, math, business, government, justice, physics, philosophy, electronic engineering, computer science, algorithmic puzzles, <span className='artistic'>music</span>, geography, sociology, biology, science, psycology, art, and more.
               </p>
             </article>
           </div>
@@ -61,11 +61,11 @@ const About = () =>
         <div className="tile is-vertical">
 
           <div className='tile is-parent'>
-            <article className="tile is-child notification is-dark">
-              <p className="title"> <span className='social'> Social </span> </p>
+            <article className='tile is-child notification is-dark'>
+              <p className="title"> <span className='social'> Socio-Spirtual </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                Loves to hear about about others intrests. Spontaneous, and cherishes the precense and company of all whom come to pass. Does good. Life mission to leave this place better than it was found.  
+                Loves to hear about about others intrests. Spontaneous, and cherishes the precense and company of all whom come to pass. Does good. Life mission to leave this place better than it was found. Social interactions between humans can be described as a network. Not all is known about counciousness, mind mysteries are inescapable. Science bears many truths; we all will turn to worm food. Life and Love are precious.
               </div>
             </article>
           </div>
