@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import BlogData from './BlogData'
 import Article from '../../../components/Article'
-// import PortfolioData from './PortfolioData'
 import SundryBar from '../../../components/SundryBar'
 
 class Blog extends Component {
@@ -22,7 +21,7 @@ class Blog extends Component {
 
             <div className='contact'>
 
-              <h2> Web Development Projects </h2>
+              <h1 className='artistic'> Web Development Projects </h1> <br />
 
               <ul>
                 {this.state.data.map((info, index) => (
@@ -41,27 +40,6 @@ class Blog extends Component {
               </ul>
 
             </div>
-
-            {/*<section className="hero is-light my-hero">
-                <div className="hero-body">
-                  <div className="container">
-                    <h1 className="title">
-                      Blog
-                    </h1>
-                    <h2 className="subtitle">
-                      Stay tuned to get inside the mind of Chris
-                    </h2>
-                  </div>
-                </div>
-              </section>*/}
-
-              <ul>
-                {/*this.state.data.map((info, index) => (
-                  <li key={index}>
-
-                  </li>
-                ))*/}
-              </ul>
 
           </div>
         </div>

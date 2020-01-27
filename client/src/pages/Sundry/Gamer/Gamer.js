@@ -17,8 +17,6 @@ class Gamer extends Component {
 
         <div className='section'>
           <div className='container'>
-            
-
 
               <section className="hero is-light my-hero">
                 <div className="hero-body">
@@ -26,10 +24,10 @@ class Gamer extends Component {
                     <h1 className="title">
                       Gaming
                     </h1>
+                    <br />
                     <h2 className="subtitle subtit">
-                      My first memories are of watching my older brother playing SNES and later empowering me by putting the controller into my hands.
-                    </h2><br>
-                    <h2> I am currently working on creating my own interactive entertainment in 90's golden age vein. Complete with soundscore, story, and art.</h2>
+                      My first memories are of watching my older brother playing SNES and later empowering me by putting the controller into my hands. I am currently developing an interactive entertainment experience from level design to art assets, to original sound score and story. And of course programming. Keep up with me here for the latest!
+                    </h2>
                   </div>
                 </div>
               </section>

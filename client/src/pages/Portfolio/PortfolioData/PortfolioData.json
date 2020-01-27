@@ -1,3 +1,35 @@
 [
-  {}
+  {
+    "title": "Bussiness Performance",
+    "icon": "./images/runner.png",
+    "note": "Conversion : 20%",
+    "note2": "Infuenced Demand : $290,000",
+    "note3": "Requests : 10,054",
+    "url": "AOV : $147.51",
+    "ghurl": ""
+  },{
+    "title": "Service Performance",
+    "icon": "./images/ff.png",
+    "note": "OSAT : 81.3%",
+    "note2": "DISSAT : 13.2%",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  },{
+    "title": "Surpirse and Delight",
+    "icon": "./images/gift.png",
+    "note": "Win",
+    "note2": "Phillip",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  },{
+    "title": "Interaction Of The Week",
+    "icon": "./images/trophy.png",
+    "note": "TEMPO",
+    "note2": "CRISP ASA",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  }
 ]
