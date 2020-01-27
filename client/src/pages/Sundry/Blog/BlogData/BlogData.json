@@ -1,5 +1,59 @@
 [
+
   {
-    
+    "title": "BucketList",
+    "small": "Live",
+    "small2": "Github",
+    "icon": "./images/bucket.png",
+    "note": "Built with MySQL, Node, Express, jQuery, and Bulma",
+    "note2": "check out the sequelized sequel on github",
+    "note3": "",
+    "url": "https://floating-tundra-83868.herokuapp.com/burgers",
+    "ghurl": "https://github.com/Waldenism/burger"
+  },
+  {
+    "title": "This site",
+    "small": "Home",
+    "small2": "Github",
+    "icon": "./images/this.png",
+    "note": "Built with React and Bulma",
+    "note2": "",
+    "note3": "",
+    "url": "http://chris-walden-react-site.herokuapp.com/",
+    "ghurl": "https://github.com/Waldenism/chris-walden-react-site"
+  },
+  {
+    "title": "TriviaGame",
+    "small": "Live",
+    "small2": "Github",
+    "icon": "./images/quiz.png",
+    "note": "Built with jQuery",
+    "note2": "",
+    "note3": "",
+    "url": "https://github.com/Waldenism/TrainScheduler",
+    "ghurl": "https://waldenism.github.io/TrainScheduler/"
+  },
+  {
+    "title": "RunLog",
+    "small": "Live*",
+    "small2": "github",
+    "icon": "./images/runner.png",
+    "note": "track runs",
+    "note2": "Built With SQL, Handlebars, Express, Node, and jQuery",
+    "note3": "*Not yet live, follow progress on Github",
+    "url": "",
+    "ghurl": "https://github.com/mmenschig/RunLog"
+  },
+  {
+    "title": "FriendFinder",
+    "small": "Live",
+    "small2": "Github",
+    "icon": "./images/ff.png",
+    "note": "find friends with simillar intrests",
+    "note2": "Built with SQL, Express, Node, and jQuery",
+    "note3": "",
+    "url": "https://walden-friend-finder.herokuapp.com/",
+    "ghurl": "https://github.com/Waldenism/FriendFinder"
   }
+  
 ]

@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import BlogData from './BlogData'
+import Article from '../../../components/Article'
 import SundryBar from '../../../components/SundryBar'
 
 class Blog extends Component {
@@ -18,26 +19,27 @@ class Blog extends Component {
         <div className='section'>
           <div className='container'>
 
-            <section className="hero is-light my-hero">
-                <div className="hero-body">
-                  <div className="container">
-                    <h1 className="title">
-                      Blog
-                    </h1>
-                    <h2 className="subtitle">
-                      Stay tuned to get inside the mind of Chris
-                    </h2>
-                  </div>
-                </div>
-              </section>
+            <div className='contact'>
+
+              <h1 className='artistic'> Web Development Projects </h1> <br />
 
               <ul>
-                {/*this.state.data.map((info, index) => (
+                {this.state.data.map((info, index) => (
                   <li key={index}>
-
+                    <Article title={info.title}
+                      small={info.small}
+                      small2={info.small2}
+                      icon={info.icon}
+                      note={info.note}
+                      note2={info.note2}
+                      note3={info.note3}
+                      url={info.url}
+                      ghurl={info.ghurl}/>  <br />
                   </li>
-                ))*/}
+                ))}
               </ul>
+
+            </div>
 
           </div>
         </div>

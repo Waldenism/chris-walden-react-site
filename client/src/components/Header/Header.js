@@ -47,8 +47,8 @@ class Header extends Component {
             <div className='tabs'>
               <ul className='line0'>                    
                 <li><Link to='/'> ABOUT </Link></li>
-                <li><Link to='/contact'> CONNECT </Link></li>
                 <li><Link to='/portfolio'> PORTFOLIO </Link></li>
+                <li><Link to='/contact'> CONNECT </Link></li>                
                 <li><Link to='/sundry'> SUNDRY </Link></li>
               </ul>
             </div>

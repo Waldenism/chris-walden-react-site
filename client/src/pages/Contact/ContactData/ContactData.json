@@ -1,4 +1,19 @@
 [
+  
+  {
+    "title": "Email",
+    "note": "cwaldenism@gmail.com",
+    "icon": "./images/email.png",
+    "note2": "christopher.walden@nike.com"
+  },
+  {
+    "title": "USPS",
+    "small": "",
+    "icon": "./images/mail.png",
+    "note": "2254 NW Glisan St. 105",
+    "note2": "Portland, OR 97210",
+    "note3": " - Mail is the most secure way to privately communicate"
+  },
   {
     "title": "LinkedIn",
     "small": "Christopher Walden",
@@ -39,19 +54,5 @@
     "note2": "Personal - @waldenism",
     "url": "https://publicsta.com/p/chrisplaysharp/3972360108",
     "ghurl": "https://publicsta.com/p/chrisplaysharp/3972360108"
-  },
-  {
-    "title": "Email",
-    "note": "cwaldenism@gmail.com",
-    "icon": "./images/email.png",
-    "note2": "christopher.walden@nike.com"
-  },
-  {
-    "title": "USPS",
-    "small": "",
-    "icon": "./images/mail.png",
-    "note": "2254 NW Glisan St. 105",
-    "note2": "Portland, OR 97210",
-    "note3": " - Mail is the most secure way to privately communicate"
   }
 ]
