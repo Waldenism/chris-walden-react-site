@@ -2,7 +2,7 @@
   {
     "title": "LinkedIn",
     "small": "Christopher Walden",
-    "small2": "Resume",
+    // "small2": "Resume",
     "icon": "./images/linkedIn.png",
     "note": "Click icon and connect with me on LinkedIn",
     "url": "https://www.linkedin.com/in/waldenism/",
@@ -24,14 +24,14 @@
     "url": "https://stackoverflow.com/users/8128375/c-walden?tab=profile",
     "ghurl": "https://stackoverflow.com/users/8128375/c-walden?tab=profile"
   },
-  {
-    "title": "Twitter",
-    "small": "@SeaWx2",
-    "icon": "./images/twitter.png",
-    "note": "I used to have another twitter account, but I believe due to such duration of inactivity it was deleted. I believe news feeds to be harmfull.",
-    "url": "https://twitter.com/SeaWx2",
-    "ghurl": "https://twitter.com/SeaWx2"
-  },
+  // {
+  //   "title": "Twitter",
+  //   "small": "@SeaWx2",
+  //   "icon": "./images/twitter.png",
+  //   "note": "I used to have another twitter account, but I believe due to such duration of inactivity it was deleted. I believe news feeds to be harmfull.",
+  //   "url": "https://twitter.com/SeaWx2",
+  //   "ghurl": "https://twitter.com/SeaWx2"
+  // },
   {
     "title": "Instagram",
     "small": "@chrisplaysharp",
@@ -45,14 +45,14 @@
     "title": "Email",
     "note": "cwaldenism@gmail.com",
     "icon": "./images/email.png",
-    "note2": "cwalden@berkeley.edu (deprecated)"
+    "note2": "christopher.walden@nike.com"
   },
   {
     "title": "USPS",
     "small": "",
     "icon": "./images/mail.png",
-    "note": "14408 Brook Meadow Dr.",
-    "note2": "McCordsville, Indiana 46055",
+    "note": "2254 NW Glisan St. 105",
+    "note2": "Portland, OR 97210",
     "note3": " - Mail is the most secure way to privately communicate"
   }
 ]

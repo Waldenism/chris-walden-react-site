@@ -6,7 +6,7 @@ const Footer = () =>
   <footer className='has-text-centered tooter'>
     <div className='bottom-bar'>
       <p>
-        Chris Walden 2018
+        Chris Walden 2020
       </p>
     </div>
   </footer>
