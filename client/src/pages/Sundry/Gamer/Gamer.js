@@ -28,7 +28,8 @@ class Gamer extends Component {
                     </h1>
                     <h2 className="subtitle subtit">
                       My first memories are of watching my older brother playing SNES and later empowering me by putting the controller into my hands.
-                    </h2>
+                    </h2><br>
+                    <h2> I am currently working on creating my own interactive entertainment in 90's golden age vein. Complete with soundscore, story, and art.</h2>
                   </div>
                 </div>
               </section>

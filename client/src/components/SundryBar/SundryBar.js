@@ -7,9 +7,9 @@ const SundryBar = () =>
       <nav className='breadcrumb' aria-label='breadcrumbs'>
         <ul className='line1'> 
             
-            <li><Link className='' to='/blog'>blog</Link></li>
-            <li><Link className='' to='/harp'>harp</Link></li>
-            <li><Link className='' to='/gamer'>gamer</Link></li>
+            <li><Link className='' to='/blog'>Dev Work</Link></li>
+            <li><Link className='' to='/harp'>Harp</Link></li>
+            <li><Link className='' to='/gamer'>Gamer</Link></li>
 
         </ul>
       </nav>
