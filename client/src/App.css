@@ -58,7 +58,8 @@ ul {
 }
 
 .physical {
-  color: #cfbff7;
+  color: #c67131;
+  /*color: #cfbff7;*/
 }
 
 .profile-pic {
@@ -67,7 +68,7 @@ ul {
 }
 
 .pic-box {
-  padding: 35px;
+  padding: 30px 30px 30px 5px;
 }
 
 .centroid {
@@ -99,6 +100,11 @@ ul {
 }
 
 /*/Contact*/
+
+.growth {
+  margin-left: -2.5em;
+  margin-top: -3.7em;
+}
 
 /*SUNDRY*/
 

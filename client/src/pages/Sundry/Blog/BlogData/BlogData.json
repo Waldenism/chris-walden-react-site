@@ -3,7 +3,7 @@
   {
     "title": "BucketList",
     "small": "Live",
-    "small2": "Github",
+    "small2": "- Github",
     "icon": "./images/bucket.png",
     "note": "Built with MySQL, Node, Express, jQuery, and Bulma",
     "note2": "check out the sequelized sequel on github",
@@ -14,7 +14,7 @@
   {
     "title": "This site",
     "small": "Home",
-    "small2": "Github",
+    "small2": "- Github",
     "icon": "./images/this.png",
     "note": "Built with React and Bulma",
     "note2": "",
@@ -25,7 +25,7 @@
   {
     "title": "TriviaGame",
     "small": "Live",
-    "small2": "Github",
+    "small2": "- Github",
     "icon": "./images/quiz.png",
     "note": "Built with jQuery",
     "note2": "",
@@ -36,7 +36,7 @@
   {
     "title": "RunLog",
     "small": "Live*",
-    "small2": "github",
+    "small2": "- Github",
     "icon": "./images/runner.png",
     "note": "track runs",
     "note2": "Built With SQL, Handlebars, Express, Node, and jQuery",
@@ -47,7 +47,7 @@
   {
     "title": "FriendFinder",
     "small": "Live",
-    "small2": "Github",
+    "small2": "- Github",
     "icon": "./images/ff.png",
     "note": "find friends with simillar intrests",
     "note2": "Built with SQL, Express, Node, and jQuery",
