@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Article from '../../components/Article'
 import PortfolioData from './PortfolioData'
+import Goal from './Goal'
 
 class Portfolio extends Component {
 
@@ -13,6 +14,7 @@ class Portfolio extends Component {
     return(
 
       <div className='section'>
+
         <div className='container'>
           <div className='contact'>
 
@@ -27,7 +29,8 @@ class Portfolio extends Component {
                     note2={info.note2}
                     note3={info.note3}
                     url={info.url}
-                    ghurl={info.ghurl}/>  <br />
+                    ghurl={info.ghurl}
+                    goal={info.goal}/>  <br />
                 </li>
               ))}
             </ul>

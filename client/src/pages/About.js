@@ -13,7 +13,7 @@ const About = () =>
               <p className="title"> <span className='intellectual'> Athlete </span> </p>
               <p className="subtitle"></p>
               <p className="content">
-                We are Nike athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport habit! As a high performance track athlete for 10+ years, Nike helped me to a lot: a High School State Championship, NCAA All-American, All-Pac12, 4:01 mile, 13:59 5k, 29:40 10k, and a 66:55 Half-Marathon. This great life expereince has set me up well as a 
+                We are Nike athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport habit! As a high performance track athlete for 10+ years, Nike helped me to a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even visted WHQ for Nike Cross Country Nationals and met many life long companions, together in sport. This great life expereince has set me up well as a 
                  <span className='physical'> consumerist</span>, <span className='artistic'>operationalist</span>, and <span className='social'>strategist</span>.
 
                 
@@ -27,13 +27,12 @@ const About = () =>
               <p className="subtitle"></p>
               <div className="content">
 
-                  <br />
-
-                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" -  Shannon Glass NDDC Summit
+                  Creating and sustaining momentum, begins with speed then closes with keeping control and staying a step ahead.  
 
                   <br /><br />
 
-                  As an NEOD operationalist one must be supremely aware of how to create momentum, and how to sustain it. First, creation begins with speed. Speed encompases keeping as many resources readily available as possible. As a Nike Expert I have promoted good practices of advanced and expedient computer navigation and usage, hard copies for team of current weeks launch styles. 
+                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" -  Shannon Glass NDDC Summit
+
               </div>
             </article>
           </div>
@@ -57,14 +56,10 @@ const About = () =>
                 <p className="subtitle"> - Nike Expert on Demand Specialist</p>
                 <div className="content">
                   - North America Consumer Services <br /> 
-                  - Nike Direct Digital Commerece <br /><br />
+                  - Nike Direct Digital Commerece <br />
 
-                  <p>Distinctions: 
-                    <ul> 
-                      <li> Stamina - AJ11 Bred  </li>
-                      <li> Unbreakable Relationships </li>
-                      <li> Community Outreach </li>
-                    </ul>
+                  <p>
+                    Flexes advanced computer literacy for professional excel, word, web documents. Avid learner with high energy and a great attitude. Desires to solve problems and improve upon existing methods. Approaches challenges from different angles, and yearns for collaboration with others to facilitate effective communication and service for NikePlus members. 
                   </p>
 
                 </div>
@@ -83,7 +78,9 @@ const About = () =>
               <p className="title"> <span className='physical'> Consumerist </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                Consumerist
+                <p>As a true consumerists obessesed with serving the NikePlus member with the same exemplarly treatment we give our Elite athletes, every interaction needs to be approached as if the member is meeting Nike for the first time.</p>
+                <p> With a deep connection to the brand getting served in the same way in my first big sports moments.</p>
+
               </div>
             </article>
           </div>
@@ -93,7 +90,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist</span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 strategist
+                 Strategizing as an Expert, comes in a cascade. Starting quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up. 
               </div>
             </article>
           </div> 

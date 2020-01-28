@@ -31,5 +31,22 @@
     "note3": "",
     "url": "",
     "ghurl": ""
+  },{
+    "title": "Get to know your Member",
+    "icon": "./images/star.png",
+    "note": "BINGO",
+    "note2": "Through conversational commerce, able to quickly create connection and chemistry with members.",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  },{
+    "title": "",
+    "icon": "",
+    "note": "",
+    "note2": "",
+    "note3": "",
+    "url": "",
+    "ghurl": "",
+    "goal" : "./images/FutureGrowth.png"
   }
 ]
