@@ -90,7 +90,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist</span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 Strategizing as an Expert, comes in a cascade. Starting quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up. 
+                 Strategizing as an Expert, comes in a cascade. Starting quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping Plus members engaged and re-engaging. 
               </div>
             </article>
           </div> 

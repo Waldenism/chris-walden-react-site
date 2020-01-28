@@ -40,6 +40,15 @@
     "url": "",
     "ghurl": ""
   },{
+    "title": "Filler",
+    "icon": "",
+    "note": "",
+    "note2": "",
+    "note3": "",
+    "url": "",
+    "ghurl": "",
+    "goal" : ""
+  },{
     "title": "",
     "icon": "",
     "note": "",
@@ -47,6 +56,6 @@
     "note3": "",
     "url": "",
     "ghurl": "",
-    "goal" : "./images/FutureGrowth.png"
+    "goal" : "./images/growth.png"
   }
 ]
