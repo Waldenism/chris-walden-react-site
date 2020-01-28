@@ -27,11 +27,11 @@ const About = () =>
               <p className="subtitle"></p>
               <div className="content">
 
-                  Creating and sustaining momentum, begins with speed then closes with keeping control and staying a step ahead, without a single vulnerability in the fundamentals.  
+                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" -  Shannon Glass NDDC Summit
 
                   <br /><br />
 
-                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" -  Shannon Glass NDDC Summit
+                  Creating and sustaining momentum, begins with speed then closes with keeping control and staying a step ahead, without a single vulnerability in the fundamentals.  
 
               </div>
             </article>
@@ -90,7 +90,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist</span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 Strategizing as an Expert, comes in a cascade. Starting quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping Plus members engaged and re-engaging. 
+                 Strategizing as an Expert, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping Plus members engaged and re-engaging. 
               </div>
             </article>
           </div> 
