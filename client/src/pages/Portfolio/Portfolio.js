@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Article from '../../components/Article'
 import PortfolioData from './PortfolioData'
-import Goal from './Goal'
 
 class Portfolio extends Component {
 

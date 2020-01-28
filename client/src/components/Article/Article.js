@@ -40,18 +40,16 @@ class Article extends Component {
               <p>
                 <strong>{this.props.title}</strong> - <a href={this.props.url}>
                   {this.props.small}
-                </a> - <a herf={this.props.ghurl}>
+                </a> <a herf={this.props.ghurl}>
                    {this.props.small2}
-                </a> 
-
-                <br />
+                </a> <br />
 
                 <small>
                   { this.props.note }<br />
                   { this.props.note2 }<br />
-                  { this.props.note3 } <br />
+                  { this.props.note3 }
                 </small>
-                <img src={ this.props.goal } />
+                <img src={ this.props.goal } className='growth'/>
               </p>
             </div>
           </div>

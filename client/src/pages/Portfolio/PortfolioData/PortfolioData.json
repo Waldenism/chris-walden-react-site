@@ -1,6 +1,6 @@
 [
   {
-    "title": "Bussiness Performance",
+    "title": "Business Performance",
     "icon": "./images/runner.png",
     "note": "Conversion : 20%",
     "note2": "Infuenced Demand : $290,000",
@@ -16,38 +16,83 @@
     "url": "",
     "ghurl": ""
   },{
-    "title": "Surpirse and Delight",
-    "icon": "./images/gift.png",
-    "note": "Win",
-    "note2": "Phillip",
+    "title": "Consumerist",
+    "icon": "./images/sumeyColor.png",
+    "note": "Do the Right Thing - Serve Athletes",
+    "note2": "",
     "note3": "",
     "url": "",
-    "ghurl": ""
+    "ghurl": "",
+    "goal" : ""
   },{
-    "title": "Interaction Of The Week",
-    "icon": "./images/trophy.png",
-    "note": "TEMPO",
-    "note2": "CRISP ASA",
+    "title": "Operationalist",
+    "icon": "./images/operaColor.png",
+    "note": "As a Nike Expert I have promoted good speed practices of advanced and expedient computer navigation and usage, and provided hard copies for the team with the current launch styles. ",
+    "note2": "",
     "note3": "",
     "url": "",
-    "ghurl": ""
+    "ghurl": "",
+    "goal" : ""
   },{
-    "title": "Get to know your Member",
-    "icon": "./images/star.png",
-    "note": "BINGO",
-    "note2": "Through conversational commerce, able to quickly create connection and chemistry with members.",
-    "note3": "",
-    "url": "",
-    "ghurl": ""
-  },{
-    "title": "Filler",
-    "icon": "",
+    "title": "Strategist",
+    "icon": "./images/stratColor.png",
     "note": "",
     "note2": "",
     "note3": "",
     "url": "",
     "ghurl": "",
     "goal" : ""
+  },{
+    "title": "Create Future",
+    "icon": "./images/Earth.png",
+    "note": "",
+    "note2": "",
+    "note3": "",
+    "url": "",
+    "ghurl": "",
+    "goal" : ""
+  },{
+    "title": "Offense",
+    "icon": "./images/apache.jpg",
+    "note": "follow ups",
+    "note2": "",
+    "note3": "",
+    "url": "",
+    "ghurl": "",
+    "goal" : ""
+  },{
+    "title": "Win as a Team",
+    "icon": "./images/medal.png",
+    "note": "Championship Culture",
+    "note2": "A championing culture only manifests when Results and Relationships come together at the highest level",
+    "note3": "",
+    "url": "",
+    "ghurl": "",
+    "goal" : ""
+  },{
+    "title": "Surpirse and Delight",
+    "icon": "./images/gift.png",
+    "note": "Phillip Gosset",
+    "note2": "Quadrapelegic Member",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  },{
+    "title": "Interaction Of The Week",
+    "icon": "./images/trophy.png",
+    "note": "Crisp Average Speed of Answer",
+    "note2": "An Expert on Demand must be exactly that, on demand! Right there the instant they are needed. In true Nike fashion, we got to the solve fast! ",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
+  },{
+    "title": "Get to know your Member",
+    "icon": "./images/star.png",
+    "note": "BINGO Winner",
+    "note2": "Through conversational commerce, able to quickly create connection and chemistry with members.",
+    "note3": "",
+    "url": "",
+    "ghurl": ""
   },{
     "title": "",
     "icon": "",

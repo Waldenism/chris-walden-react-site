@@ -27,7 +27,7 @@ const About = () =>
               <p className="subtitle"></p>
               <div className="content">
 
-                  Creating and sustaining momentum, begins with speed then closes with keeping control and staying a step ahead.  
+                  Creating and sustaining momentum, begins with speed then closes with keeping control and staying a step ahead, without a single vulnerability in the fundamentals.  
 
                   <br /><br />
 
@@ -79,7 +79,7 @@ const About = () =>
               <p className="subtitle"> </p>
               <div className='content'>
                 <p>As a true consumerists obessesed with serving the NikePlus member with the same exemplarly treatment we give our Elite athletes, every interaction needs to be approached as if the member is meeting Nike for the first time.</p>
-                <p> With a deep connection to the brand getting served in the same way in my first big sports moments.</p>
+                <p> With a deep connection to the brand getting served in the same way in my first big sports moments, I am uniquely equipped to pay it forward.</p>
 
               </div>
             </article>
