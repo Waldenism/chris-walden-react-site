@@ -3,15 +3,15 @@
     "title": "Business Performance",
     "icon": "./images/runner.png",
     "note": "Conversion : 22% +",
-    "note2": "Infuenced Demand : $50k/month",
-    "note3": "Requests : 15k/month",
+    "note2": "Infuenced Demand : $50k+ /month",
+    "note3": "Requests : 15k+ /month",
     "url": "",
     "ghurl": ""
   },{
     "title": "Service Performance",
     "icon": "./images/ff.png",
-    "note": "OSAT : 81.3%",
-    "note2": "DISSAT : 13.2%",
+    "note": "OSAT : 85% +",
+    "note2": "DISSAT : 13% -",
     "note3": "",
     "url": "",
     "ghurl": ""
@@ -101,6 +101,6 @@
     "note3": "",
     "url": "",
     "ghurl": "",
-    "goal" : "./images/growth.png"
+    "goal" : "./images/CSfutures.png"
   }
 ]

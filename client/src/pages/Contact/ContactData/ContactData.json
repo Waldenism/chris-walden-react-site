@@ -10,8 +10,8 @@
     "title": "USPS",
     "small": "",
     "icon": "./images/mail.png",
-    "note": "2254 NW Glisan St. 105",
-    "note2": "Portland, OR 97210",
+    "note": "628 Silversword Dr.",
+    "note2": "Lahaina, HI 96761",
     "note3": " - Mail is the most secure way to privately communicate"
   },
   {
@@ -52,6 +52,7 @@
     "note": "Harp Instagram - @chrisplaysharp",
     "icon": "./images/insta.png",
     "note2": "Personal - @waldenism",
+    "note3": "@cwxskate",
     "url": "https://publicsta.com/p/chrisplaysharp/3972360108",
     "ghurl": "https://publicsta.com/p/chrisplaysharp/3972360108"
   }
