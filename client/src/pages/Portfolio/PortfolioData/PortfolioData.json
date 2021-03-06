@@ -19,8 +19,8 @@
     "title": "Consumerist",
     "icon": "./images/consColor.png",
     "note": "Run Happy!",
-    "note2": "",
-    "note3": "\"Chris- This one is special. Hearing you speak to the genuine connection you made with this member, the emotions you felt, made me better. Your genuine passion for service and this consumer is contagious to our whole team.\" -Nate (Nike Director) ",
+    "note2": "\"Chris- This one is special. Hearing you speak to the genuine connection you made with this member, the emotions you felt, made me better. Your genuine passion for service and this consumer is contagious to our whole team.\" -Nate (Nike Director)",
+    "note3": "",
     "url": "",
     "ghurl": "",
     "goal" : ""
@@ -54,8 +54,8 @@
   },{
     "title": "Offense",
     "icon": "./images/offense.png",
-    "note": "It takes a good offense to stay on top. To keep Brooks runners running Happy, we have to be front runners, we have to be better than our competitors, maitain control, listen to the needs of our runners and bring more into the Brooks family with strategies like clientelling.",
-    "note2": "",
+    "note": "It takes a good offense to stay on top.",
+    "note2": "To keep Brooks runners running Happy, we have to be front runners, we have to be better than our competitors, maitain control, listen to the needs of our runners and bring more into the Brooks family with strategies like clientelling.",
     "note3": "",
     "url": "",
     "ghurl": "",
@@ -93,14 +93,5 @@
     "note3": "",
     "url": "",
     "ghurl": ""
-  },{
-    "title": "",
-    "icon": "",
-    "note": "",
-    "note2": "",
-    "note3": "",
-    "url": "",
-    "ghurl": "",
-    "goal" : "./images/CSfutures.png"
   }
 ]
