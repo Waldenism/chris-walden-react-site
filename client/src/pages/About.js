@@ -13,7 +13,7 @@ const About = () =>
               <p className="title"> <span className='intellectual'> Athlete </span> </p>
               <p className="subtitle"></p>
               <p className="content">
-                We are athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport a habit! As a high performance track athlete for 10+ years, Nike helped me to a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even was invited to the very first <strong>Brooks PR Invite </strong> in Seattle and met many life long companions, together in sport. This great life expereince has set me up well as a 
+                We are athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport a habit! As a high performance track athlete for 10+ years, Brooks helped me to a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even was invited to the very first <strong>Brooks PR Invite </strong> in Seattle and met many life long companions, together in sport. This great life expereince has set me up well as a 
                  <span className='physical'> consumerist</span>, <span className='artistic'>operationalist</span>, and <span className='social'>strategist</span>.
 
                 
