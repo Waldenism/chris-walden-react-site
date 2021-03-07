@@ -29,7 +29,8 @@ class Portfolio extends Component {
                     note3={info.note3}
                     url={info.url}
                     ghurl={info.ghurl}
-                    goal={info.goal}/>  <br />
+                    goal={info.goal}
+                    pic={info.pic}/>  <br />
                 </li>
               ))}
             </ul>

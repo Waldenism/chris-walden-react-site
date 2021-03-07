@@ -82,7 +82,7 @@
     "icon": "./images/trophy.png",
     "note": "Crisp Average Speed of Answer",
     "note2": "An Expert on Demand must be exactly that, on demand! Right there the instant they are needed. We got to the solve fast! ",
-    "note3": "\"This week’s interaction of the week with an effortless hunt-it-down flow. He took just a few minutes to secure the product in store for the Member. As we obsess speed of answer, this is a great example of the gold standard.\"",
+    "note3": "\"This week’s interaction of the week with an effortless hunt-it-down flow. He took just a few minutes to secure the product in store for the Member. As we obsess speed of answer, this is a great example    of the gold standard.\"",
     "url": "",
     "ghurl": ""
   },{
@@ -101,6 +101,7 @@
     "note3": "",
     "url": "",
     "ghurl": "",
-    "goal" : "./images/BrooksPR1.jpg"
+    "goal" : "./images/BrooksPR1.jpg",
+    "pic" : "./images/BrooksPR2.jpg"
   }
 ]
