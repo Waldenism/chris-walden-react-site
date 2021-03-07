@@ -13,7 +13,7 @@ const About = () =>
               <p className="title"> <span className='intellectual'> Athlete </span> </p>
               <p className="subtitle"></p>
               <p className="content">
-                We are athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport a habit! As a high performance track athlete for 10+ years, Brooks helped me to a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even was invited to the very first <strong>Brooks PR Invite </strong> in Seattle and met many life long companions, together in sport. This great life expereince has set me up well as a 
+                We are athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport a habit! As a high performance track athlete for 10+ years, Brooks helped me a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even was invited to the very first <strong>Brooks PR Invite </strong> in Seattle and met many life long companions, together in sport. This great life expereince has set me up well as a 
                  <span className='physical'> consumerist</span>, <span className='artistic'>operationalist</span>, and <span className='social'>strategist</span>.
 
                 
@@ -77,8 +77,8 @@ const About = () =>
               <p className="title"> <span className='physical'> Consumerist </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                <p>As a true consumerists obessesed with serving all runners with the same exemplarly treatment we give our Elite athletes, every interaction needs to be approached as if the member is meeting Brooks for the first time.</p>
-                <p> With a deep connection to the brand getting served in the same way in my first big sports moments, I am uniquely equipped to pay it forward.</p>
+                <p>As a true consumerist obessesed with serving all runners with the same exemplarly treatment Brooks gives their Elite athletes, every interaction needs to be approached as if the runner is meeting Brooks for the first time.</p>
+                <p> With my deep connection to the brand and getting served like I was an elite in my first big sports moments, I am uniquely equipped to pay it forward.</p>
 
               </div>
             </article>
