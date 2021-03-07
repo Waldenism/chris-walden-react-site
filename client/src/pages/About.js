@@ -57,9 +57,9 @@ const About = () =>
                 <div className="content">
                   - Brooks Running <br /> 
 
-                  <p>
+                  
                     Flexes advanced computer literacy for professional excel, word, web documents. Avid learner with high energy and a great attitude. Desires to solve problems and improve upon existing methods. Approaches challenges from different angles, and yearns for collaboration with others to facilitate effective communication and service for runners. 
-                  </p>
+                  
 
                 </div>
               </div>
@@ -89,7 +89,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 Strategizing, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, to monthly, to each week, day and runner interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
+                 Strategizing, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, monthly, weekly, daily outlines, all the way down to each runner interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
               </div>
             </article>
           </div> 
