@@ -27,7 +27,7 @@ const About = () =>
               <p className="subtitle"></p>
               <div className="content">
 
-                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" -  Shannon Glass NDDC Summit
+                  The late Kobe Bryant - "The team that creates and dominates the momentum wins the game" 
 
                   <br /><br />
 
@@ -78,7 +78,7 @@ const About = () =>
               <p className="subtitle"> </p>
               <div className='content'>
                 <p>As a true consumerist obessesed with serving all runners with the same exemplarly treatment Brooks gives their Elite athletes, every interaction needs to be approached as if the runner is meeting Brooks for the first time.</p>
-                <p> With my deep connection to the brand and getting served like I was an elite in my first big sports moments, I am uniquely equipped to pay it forward.</p>
+                <p> With my deep connection to Brooks and getting served like I was an elite in my first big sports moments, I am uniquely equipped to pay it forward.</p>
 
               </div>
             </article>
@@ -89,7 +89,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 Strategizing as an Expert, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, to monthly, to each week, day and member interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
+                 Strategizing, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, to monthly, to each week, day and runner interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
               </div>
             </article>
           </div> 
