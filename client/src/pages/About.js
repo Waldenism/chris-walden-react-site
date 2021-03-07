@@ -12,7 +12,7 @@ const About = () =>
             <article className="tile is-child notification is-dark">
               <p className="title"> <span className='intellectual'> Athlete </span> </p>
               <p className="subtitle"></p>
-              <p className="content">
+              <p className="content fontent">
                 We are athletes this is what we believe. The best way to know how to serve an athlete is by being one, making sport a habit! As a high performance track athlete for 10+ years, Brooks helped me a lot: a High School State Championship, NCAA All-American, 4:01 mile, 13:59 5k, and a 66:55 Half-Marathon. Even was invited to the very first <strong>Brooks PR Invite </strong> in Seattle and met many life long companions, together in sport. This great life expereince has set me up well as a 
                  <span className='physical'> consumerist</span>, <span className='artistic'>operationalist</span>, and <span className='social'>strategist</span>.
 
@@ -89,7 +89,7 @@ const About = () =>
               <p className="title"> <span className='social'> Strategist </span> </p>
               <p className="subtitle"> </p>
               <div className='content'>
-                 Strategizing, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, monthly, weekly, daily outlines, all the way down to each runner interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
+                 Strategizing, comes in a cascade. Starting with leaderships yearly 3 year plan, on to quaterly, monthly, weekly, and daily outlines, all the way down to each runner interaction. Staying tuned to seasonal product lines as they cool off and warm up, is essential in keeping runners engaged and re-engaging. 
               </div>
             </article>
           </div> 
