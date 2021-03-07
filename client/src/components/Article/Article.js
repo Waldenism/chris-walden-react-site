@@ -49,8 +49,8 @@ class Article extends Component {
                   { this.props.note2 }<br />
                   { this.props.note3 }
                 </small>
-                <img src={ this.props.goal } className='growth' alt='pic'/>
-                <img src={ this.props.pic } alt='pic'/>
+                <img src={ this.props.goal } className='growth'/>
+                <img src={ this.props.pic } />
               </p>
             </div>
           </div>
